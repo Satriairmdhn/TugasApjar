@@ -15,4 +15,4 @@ Siska Anggraeni
 
 
 ## How To Open Project :
-Ganti branches menjadi **PROJECT**
+Ganti branches **MAIN** menjadi **MASTER**
