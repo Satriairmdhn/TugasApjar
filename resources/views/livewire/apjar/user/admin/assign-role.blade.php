@@ -40,7 +40,6 @@
 
                             <td class="text-right">
                                 <button wire:click="assignRole({{$user->faculty->id}}, {{$user->id}})" data-toggle="modal" data-target="#setRole" class="btn btn-xs btn-success"><i class="fa fa-user fa-user-plus" style ="color:black" aria-hidden="true"></i> Role</button>
-                                <button wire:click="loginAs({{ $user->id }})" class="btn btn-xs btn-warning"><i class="fa fa-user fa-xs" style ="color:black" aria-hidden="true"></i> Login As</button>
                             </td>
                         </tr>
                     @endif

@@ -10,7 +10,7 @@
                     <b>Faculty Administration</b> | Admin
                 </div>
                 <div class="card-body">
-
+                    @livewire('apjar.user.admin.faculty-edit')
                 </div>
             </div>
         </div>
