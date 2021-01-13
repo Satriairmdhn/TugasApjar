@@ -1,3 +1,7 @@
+<p align="center"><img src ="https://upload.wikimedia.org/wikipedia/en/d/d5/Logo_Almamater_UPI.png" width="150"> </p>
+
+
+
 # Tugas Apjar KELOMPOK 2
 Pengelolaan data Faculty Member (Admin role)
 
