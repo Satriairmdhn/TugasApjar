@@ -10,5 +10,5 @@ Satria Ihsan Ramadhan -
 Siska Anggraeni
 
 
-## How To Open Project
+## How To Open Project :
 Ganti branches menjadi **PROJECT**
